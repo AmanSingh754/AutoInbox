@@ -1,0 +1,14 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+langgraph
+google-generativeai
+python-dotenv
+pydantic
+groq
+openai
+pdfminer.six
+python-docx
+openpyxl
+scikit-learn
+numpy
